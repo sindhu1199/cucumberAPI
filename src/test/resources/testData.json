@@ -1,0 +1,41 @@
+{
+  "createUsers": {
+    "name": "Tenali Ramakrishna",
+    "gender": "male",
+    "status": "active"
+  },
+  "updateUsers": {
+    "name": "Vamsi",
+    "status": "Inactive"
+  },
+  "createPosts": {
+    "title": "Welcome to API Testing",
+    "body": "Welcome to API Testing"
+  },
+  "blankBody": {
+    "title": "Welcome to API Testing"
+  },
+  "blankTitle": {
+    "body": "Welcome to API Testing"
+  },
+  "updatePosts": {
+    "title": "Welcome to API Testing",
+    "body": "Welcome to Automation Testing"
+  },
+  "createComments": {
+    "name": "Peter",
+    "body": "Welcome to API Testing"
+  },
+  "updateComments": {
+    "name": "Jordan",
+    "body": "Welcome to Automation Testing"
+  },
+  "createTodo": {
+    "title": "Consequuntur degenero aut urbs timor sto amplitudo.",
+    "status": "completed"
+  },
+  "updateTodo": {
+    "title": "API Testing",
+    "status": "pending"
+  }
+}
